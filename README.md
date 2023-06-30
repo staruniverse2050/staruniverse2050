@@ -30,6 +30,6 @@ I am **staruniverse2050**, but my name is actually Maite Martínez. I am passion
 - English: Average
 ## Contacto
 - Connect with me on LinkedIn! [Maite Martinez](https://www.linkedin.com/in/maite-martinez-/)
-- <p align="center">
+<p align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Gato de GitHub 3" width="200" height="200">
 </p>
