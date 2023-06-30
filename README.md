@@ -1,4 +1,4 @@
-<!-- Encabezado -->
+![image](https://github.com/staruniverse2050/staruniverse2050/assets/105754123/916daac3-3796-4c8b-a24f-faf63bd9441d)<!-- Encabezado -->
 # ¡Hola, ¿Cómo estás? 👋
 
 <!-- Descripción -->
@@ -13,7 +13,7 @@ Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apas
 - **Fresh-Smile-Cmill-Front-End**: Este proyecto también fue resultado de mi formación en el SENA. Es un Front-End desarrollado en React y desplegado en Netlify.
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Gato de GitHub 2" width="200" height="200">
+  <img src="https://octodex.github.com/images/welcometocat.png" alt="Gato de GitHub 2" width="200" height="200">
 </p>
 
 ## Habilidades técnicas
@@ -28,7 +28,7 @@ Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apas
   - Año de graduación: 2024
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Gato de GitHub 3" width="200" height="200">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Gato de GitHub 3" width="200" height="200">
 </p>
 
 ## Idiomas
