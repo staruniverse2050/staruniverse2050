@@ -1,4 +1,3 @@
-![image](https://github.com/staruniverse2050/staruniverse2050/assets/105754123/916daac3-3796-4c8b-a24f-faf63bd9441d)<!-- Encabezado -->
 # ¡Hola, ¿Cómo estás? 👋
 
 <!-- Descripción -->
