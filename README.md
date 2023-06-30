@@ -1,4 +1,4 @@
-# ¡Hola, ¿Cómo estás? 👋
+# ¡Hola, ¿Cómo estás? 👋:shipit:
 
 <!-- Descripción -->
 Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apasionado de la programación y la tecnología. Me encanta explorar nuevas ideas y aprender constantemente sobre las últimas tendencias en el mundo de la informática.
