@@ -16,9 +16,9 @@ Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apas
 </p>
 
 ## Habilidades técnicas
-- Lenguajes de programación: **Kotlin, Java, JavaScript**.
-- Frameworks: **Vite, Spring, React**.
-- Bases de datos: **MySQL, MongoDB**.
+- Lenguajes de programación: **Kotlin, Java, JavaScript, PHP, Python**.
+- Frameworks: **Vite, Spring, React, ASP.NET **.
+- Bases de datos: **MySQL, MongoDB, Microsoft SQL Server, SQLite**.
 - Otros: **Git, HTML, CSS**.
 
 ## Educación
