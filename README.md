@@ -4,9 +4,10 @@
 <!-- Descripción -->
 ¡Hola! Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apasionado de la programación y la tecnología. Me encanta explorar nuevas ideas y aprender constantemente sobre las últimas tendencias en el mundo de la informática.
 
-<!-- Gato de GitHub -->
+<!-- Gatos de GitHub -->
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Gato de GitHub" width="200" height="200">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Gato de GitHub 1" width="200" height="200">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Gato de GitHub 2" width="200" height="200">
 </p>
 
 ## Proyectos destacados
