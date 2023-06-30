@@ -6,7 +6,6 @@
 
 <!-- Gatos de GitHub -->
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Gato de GitHub 1" width="200" height="200">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Gato de GitHub 2" width="200" height="200">
 </p>
 
