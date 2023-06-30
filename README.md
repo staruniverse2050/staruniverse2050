@@ -1,8 +1,8 @@
 <!-- Encabezado -->
-# Hola, ¿Cómo estás?
+# ¡Hola, ¿Cómo estás? 👋
 
 <!-- Descripción -->
-¡Hola! Soy **staruniverse2050**, bueno, ese es mi nombre de usuario que me gusta, en realidad me llamo Maite Martínez. Soy un apasionado de la programación y la tecnología. Me encanta explorar nuevas ideas y aprender constantemente sobre las últimas tendencias en el mundo de la informática.
+¡Hola! Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apasionado de la programación y la tecnología. Me encanta explorar nuevas ideas y aprender constantemente sobre las últimas tendencias en el mundo de la informática.
 
 <!-- Gato de GitHub -->
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 ## Proyectos destacados
-- **FreshSmileApi**: Este proyecto fue producto como resultado de la formación SENA, el cual es el Back-End desarrollado en Java y desplegado en Azure.
-- **Fresh-Smile-Cmill-Front-End**: Este proyecto fue producto como resultado de la formación SENA, el cual es el Front-End en React y desplegado en Netlify.
+- **FreshSmileApi**: Este proyecto fue resultado de mi formación en el SENA. Es un Back-End desarrollado en Java y desplegado en Azure.
+- **Fresh-Smile-Cmill-Front-End**: Este proyecto también fue resultado de mi formación en el SENA. Es un Front-End desarrollado en React y desplegado en Netlify.
 
 ## Habilidades técnicas
 - Lenguajes de programación: **Kotlin, Java, JavaScript**.
@@ -21,11 +21,11 @@
 
 ## Educación
 - Servicio Nacional de Aprendizaje (SENA)
-  - Título: Analisis y Desarrollo de Sistemas de Información
+  - Título: Análisis y Desarrollo de Sistemas de Información
   - Año de graduación: 2024
 
 ## Idiomas
 - Español: Nativo
 
 ## Contacto
-- LinkedIn: [maite-martinez](https://www.linkedin.com/in/maite-martinez-/)
+- ¡Conéctate conmigo en LinkedIn! [Maite Martínez](https://www.linkedin.com/in/maite-martinez-/)
