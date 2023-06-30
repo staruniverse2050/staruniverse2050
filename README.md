@@ -26,12 +26,12 @@ Soy **staruniverse2050**, pero en realidad me llamo Maite Martínez. Soy un apas
   - Título: Análisis y Desarrollo de Sistemas de Información
   - Año de graduación: 2024
 
-<p align="center">
-  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Gato de GitHub 3" width="200" height="200">
-</p>
 
 ## Idiomas
 - Español: Nativo
 
 ## Contacto
-- ¡Conéctate conmigo en LinkedIn! [Maite Martínez](https://www.linkedin.com/in/maite-martinez-/)
+- ¡Conéctate conmigo en LinkedIn! [Maite Martínez](https://www.linkedin.com/in/maite-martinez-/) 
+<p align="center">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="Gato de GitHub 3" width="200" height="200">
+</p>
