@@ -2,9 +2,6 @@
 
 <!-- Descripción -->
 I am **staruniverse2050**, but my name is actually Maite Martínez. I am passionate about programming and technology. I love exploring new ideas and constantly learning about the latest trends in the world of computing.
-<p align="center">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" alt="Gato de GitHub 1" width="200" height="200">
-</p>
 
 ## Proyectos destacados
 - **FreshSmileApi**: This project was the result of my training at SENA. It is a Back-End developed in Java and deployed in Azure.
